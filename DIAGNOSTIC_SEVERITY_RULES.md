@@ -57,3 +57,4 @@ This doc details all available rules that can be customized using the `python.an
 | reportUnusedCallResult | Diagnostics for call expressions whose results are not consumed and are not None. |
 | reportUnsupportedDunderAll | Diagnostics for unsupported operations performed on `__all__`. |
 | reportUnusedCoroutine | Diagnostics for call expressions that return a Coroutine and whose results are not consumed. |
+
